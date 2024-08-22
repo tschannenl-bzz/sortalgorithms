@@ -1,1 +1,2 @@
-# sort_alg
+# sort algorithms
+bubblesort, heapsort, quicksort and shakersort
